@@ -69,6 +69,7 @@ El sistema utiliza MySQL.
 2. Configurar la base de datos.
 3. Abrir el proyecto en NetBeans.
 4. Ejecutar la clase `Main`.
+5. La base de datos tiene 2 usuarios cargados. El administrador (Usuario: MasterChief / Password: Abi123) y un usuario normal(Usuario: Abi / Password: Matecito98). Usar esas dos credenciales para testear inicialmente. Luego se pueden cargar mas.
 
 ---
 
