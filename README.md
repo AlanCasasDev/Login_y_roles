@@ -57,8 +57,8 @@ El sistema utiliza MySQL.
 
 1. Instalar XAMPP
 2. Iniciar Apache y MySQL
-3. Crear una base llamada `sistema_gestion_roles`
-4. Importar el archivo `sistema_gestion_roles`
+3. Crear una base de datos llamada `sistema_gestion_roles`
+4. Importar el archivo SQL incluido en la carpeta `/database`
 5. Verificar usuario y contraseña en el archivo de configuración (`persistence.xml` o clase de conexión)
 
 ---
